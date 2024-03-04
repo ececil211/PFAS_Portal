@@ -19462,7 +19462,7 @@ textarea[resize="horizontal"] {
 }
 
 .nav-wrapper {
-  padding: 1rem 0;
+  padding: 0rem 0;
   border-top-left-radius: 0.25rem;
   border-top-right-radius: 0.25rem;
 }
